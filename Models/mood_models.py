@@ -7,3 +7,4 @@ class MoodResponse(BaseModel):
     suggestion: str
     encouragement: str
     
+    
